@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0ed9c78c-2d4b-4cd0-aca8-ef3328e977bb}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+    <InterpreterVersion />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="16-2-Cshap stydy\Cshap stydy\obj\Debug\Cshap stydy.csproj.FileListAbsolute.txt" />
+    <Content Include="16-2-Cshap stydy\Cshap stydy\obj\Release\Cshap stydy.csproj.FileListAbsolute.txt" />
+    <Content Include="17-1-Algorithms\17-05-15-Hash_Table\17-05-15-HashTable_Homework2\member.txt" />
+    <Content Include="17-1-Algorithms\17-05-15-Hash_Table\17-05-15-HashTable_Homework\member.txt" />
+    <Content Include="17-1-Cpp\17-04-19-File_Input_Output\C++.txt" />
+    <Content Include="17-1-Cpp\17-04-19-File_Input_Output\class.txt" />
+    <Content Include="17-1-Cpp\17-04-19-File_Input_Output\Preview_8.jpg" />
+    <Content Include="17-1-Cpp\17-04-19-File_Input_Output\Preview_8_copy.jpg" />
+    <Content Include="17-1-Cpp\17-04-19-File_Input_Output\system.ini" />
+    <Content Include="17-1-Dialog_Test\Dialog_Test\ReadMe.txt" />
+    <Content Include="17-1-Dialog_Test\Dialog_Test\res\Dialog_Test.ico" />
+    <Content Include="17-1-MFC\17-03-16-MFC_Test\ReadMe.txt" />
+    <Content Include="17-1-MFC\17-03-16-MFC_Test\res\17-03-16-MFC_Test.ico" />
+    <Content Include="17-1-MFC\17-03-16-MFC_Test\res\17-03-16-MFC_TestDoc.ico" />
+    <Content Include="17-1-MFC\17-03-16-MFC_Test\res\Toolbar.bmp" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\ReadMe.txt" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\back.BMP" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\bitmap1.bmp" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\BlackJack.ico" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\card.bmp" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\cardmask.bmp" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\digit.bmp" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\digit1.bmp" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\digit2.bmp" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\loose.bmp" />
+    <Content Include="17-1-MFC\17-05-17-BlackJack\res\win.BMP" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\ReadMe.txt" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\17-05-31-Bacteria.ico" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\bitmap8.bmp" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\blue2.bmp" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\change.bmp" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\change1.bmp" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\number.bmp" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\red2.bmp" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\scoreboa.bmp" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\selectco.bmp" />
+    <Content Include="17-1-MFC\17-05-31-Bacteria\res\selecthu.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\Deep_Blue.txt" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\ReadMe.txt" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\17-06-01-Deep_Blue.ico" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\BG.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\bg_sea_bottom.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\Game Over.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\Monster1_strip4.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\number.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_bgBubble_strip4.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_End_Menu_0.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_HP_3.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Monster3_strip10.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Monster4_strip4.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Monster5_strip6.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Monster6_strip3.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Player5_strip9.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Ray.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Restart_Menu_0.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Title_0.bmp" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Title_0.png" />
+    <Content Include="17-1-MFC\17-06-01-Deep_Blue\res\S_Whereis_0.bmp" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-11-25-Mesh\femail.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-11-25-Mesh\simple.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-11-25-Mesh\sleevel.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-01-Mesh2\femail.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-01-Mesh2\simple.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-01-Mesh2\sleevel.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-02-Texture-Image\cosmos.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-02-Texture-Image\cosmos2.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-02-Texture-Image\cosmos3.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-03-Texture\cosmos.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-04-Texture+Mesh\cosmos.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-04-Texture+Mesh\cosmos2.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-04-Texture+Mesh\cosmos3.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-04-Texture+Mesh\cosmos4.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-04-Texture+Mesh\femail.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-04-Texture+Mesh\simple.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-04-Texture+Mesh\sleevel.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos1.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos2.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos3.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos5.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos6.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos7.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos8.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\cosmos9.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture\dirty.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-Inner_Multiple_Texture\cosmos.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-Inner_Multiple_Texture\dirty.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-09-Inner_Multiple_Texture\woodchips.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example\cosmos.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example\cosmos10.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example\cosmos11.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example\cosmos2.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example\cosmos3.jpg" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example\femail.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example\simple.sms.txt" />
+    <Content Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example\sleevel.sms.txt" />
+    <Content Include="17-2-DirextX11 Test\10. 정반사광\dx11tut10\dx11tut10\Engine\Engine\data\cube.txt" />
+    <Content Include="17-2-DirextX11 Test\12. 글꼴 엔진\dx11tut12\dx11tut12\Engine\Engine\data\fontdata.txt" />
+    <Content Include="17-2-DirextX11 Test\12. 글꼴 엔진\dx11tut12\dx11tut12\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\13. Direct Input\dx11tut13\dx11tut13\Engine\Engine\data\fontdata.txt" />
+    <Content Include="17-2-DirextX11 Test\13. Direct Input\dx11tut13\dx11tut13\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\14. Direct Sound\dx11tut14\dx11tut14\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\dx11tut15\dx11tut15\Engine\Engine\data\fontdata.txt" />
+    <Content Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\dx11tut15\dx11tut15\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\dx11tut16\Engine\Engine\data\fontdata.txt" />
+    <Content Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\dx11tut16\Engine\Engine\data\sphere.txt" />
+    <Content Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\dx11tut16\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\dx11tut17\dx11tut17\Engine\Engine\data\square.txt" />
+    <Content Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\dx11tut17\dx11tut17\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\18. 라이트맵\dx11tut18\dx11tut18\Engine\Engine\data\square.txt" />
+    <Content Include="17-2-DirextX11 Test\18. 라이트맵\dx11tut18\dx11tut18\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\19. 알파 매핑\dx11tut19\dx11tut19\Engine\Engine\data\square.txt" />
+    <Content Include="17-2-DirextX11 Test\19. 알파 매핑\dx11tut19\dx11tut19\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\20. 범프 매핑\dx11src20\dx11src20\data\cube.txt" />
+    <Content Include="17-2-DirextX11 Test\21. 반사 매핑\dx11tut21\dx11tut21\Engine\Engine\data\cube.txt" />
+    <Content Include="17-2-DirextX11 Test\21. 반사 매핑\dx11tut21\dx11tut21\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\dx11tut22\dx11tut22\Engine\Engine\data\cube.txt" />
+    <Content Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\dx11tut22\dx11tut22\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\23. 안개\dx11tut23\dx11tut23\Engine\Engine\data\cube.txt" />
+    <Content Include="17-2-DirextX11 Test\23. 안개\dx11tut23\dx11tut23\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\24. 클리핑 평면\dx11tut24\dx11tut24\Engine\Engine\data\triangle.txt" />
+    <Content Include="17-2-DirextX11 Test\24. 클리핑 평면\dx11tut24\dx11tut24\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\25. 텍스쳐 이동\dx11tut25\dx11tut25\Engine\Engine\data\triangle.txt" />
+    <Content Include="17-2-DirextX11 Test\25. 텍스쳐 이동\dx11tut25\dx11tut25\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\26. 투명도\dx11tut26\dx11tut26\Engine\Engine\data\square.txt" />
+    <Content Include="17-2-DirextX11 Test\26. 투명도\dx11tut26\dx11tut26\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\27. 반사\dx11tut27\dx11tut27\Engine\Engine\data\cube.txt" />
+    <Content Include="17-2-DirextX11 Test\27. 반사\dx11tut27\dx11tut27\Engine\Engine\data\floor.txt" />
+    <Content Include="17-2-DirextX11 Test\27. 반사\dx11tut27\dx11tut27\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\28. 페이드 효과\dx11tut28\dx11tut28\Engine\Engine\data\cube.txt" />
+    <Content Include="17-2-DirextX11 Test\28. 페이드 효과\dx11tut28\dx11tut28\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\30. 다중 점조명\dx11tut30\dx11tut30\Engine\Engine\data\plane01.txt" />
+    <Content Include="17-2-DirextX11 Test\30. 다중 점조명\dx11tut30\dx11tut30\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\31. 3차원 음향\dx11tut31\dx11tut31\Engine\Engine\Debug\BuildLog.htm" />
+    <Content Include="17-2-DirextX11 Test\UpgradeLog.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="16-2-Cshap stydy\" />
+    <Folder Include="16-2-Cshap stydy\Cshap stydy\" />
+    <Folder Include="16-2-Cshap stydy\Cshap stydy\obj\" />
+    <Folder Include="16-2-Cshap stydy\Cshap stydy\obj\Debug" />
+    <Folder Include="16-2-Cshap stydy\Cshap stydy\obj\Release" />
+    <Folder Include="17-1-Algorithms\" />
+    <Folder Include="17-1-Algorithms\17-05-15-Hash_Table\" />
+    <Folder Include="17-1-Algorithms\17-05-15-Hash_Table\17-05-15-HashTable_Homework" />
+    <Folder Include="17-1-Algorithms\17-05-15-Hash_Table\17-05-15-HashTable_Homework2" />
+    <Folder Include="17-1-Cpp\" />
+    <Folder Include="17-1-Cpp\17-04-19-File_Input_Output" />
+    <Folder Include="17-1-Dialog_Test\" />
+    <Folder Include="17-1-Dialog_Test\Dialog_Test" />
+    <Folder Include="17-1-Dialog_Test\Dialog_Test\res" />
+    <Folder Include="17-1-MFC\" />
+    <Folder Include="17-1-MFC\17-03-16-MFC_Test" />
+    <Folder Include="17-1-MFC\17-03-16-MFC_Test\res" />
+    <Folder Include="17-1-MFC\17-05-17-BlackJack" />
+    <Folder Include="17-1-MFC\17-05-17-BlackJack\res" />
+    <Folder Include="17-1-MFC\17-05-31-Bacteria" />
+    <Folder Include="17-1-MFC\17-05-31-Bacteria\res" />
+    <Folder Include="17-1-MFC\17-06-01-Deep_Blue" />
+    <Folder Include="17-1-MFC\17-06-01-Deep_Blue\res" />
+    <Folder Include="17-1-Open_GL\" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\16-11-25-Mesh" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\16-12-01-Mesh2" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\16-12-02-Texture-Image" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\16-12-03-Texture" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\16-12-04-Texture+Mesh" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\16-12-09-GenTexture" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\16-12-09-Inner_Multiple_Texture" />
+    <Folder Include="17-1-Open_GL\16-2-OpenGL\16-12-16-Example" />
+    <Folder Include="17-2-DirextX11 Test" />
+    <Folder Include="17-2-DirextX11 Test\10. 정반사광\" />
+    <Folder Include="17-2-DirextX11 Test\10. 정반사광\dx11tut10\" />
+    <Folder Include="17-2-DirextX11 Test\10. 정반사광\dx11tut10\dx11tut10\" />
+    <Folder Include="17-2-DirextX11 Test\10. 정반사광\dx11tut10\dx11tut10\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\10. 정반사광\dx11tut10\dx11tut10\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\10. 정반사광\dx11tut10\dx11tut10\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\12. 글꼴 엔진\" />
+    <Folder Include="17-2-DirextX11 Test\12. 글꼴 엔진\dx11tut12\" />
+    <Folder Include="17-2-DirextX11 Test\12. 글꼴 엔진\dx11tut12\dx11tut12\" />
+    <Folder Include="17-2-DirextX11 Test\12. 글꼴 엔진\dx11tut12\dx11tut12\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\12. 글꼴 엔진\dx11tut12\dx11tut12\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\12. 글꼴 엔진\dx11tut12\dx11tut12\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\12. 글꼴 엔진\dx11tut12\dx11tut12\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\13. Direct Input\" />
+    <Folder Include="17-2-DirextX11 Test\13. Direct Input\dx11tut13\" />
+    <Folder Include="17-2-DirextX11 Test\13. Direct Input\dx11tut13\dx11tut13\" />
+    <Folder Include="17-2-DirextX11 Test\13. Direct Input\dx11tut13\dx11tut13\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\13. Direct Input\dx11tut13\dx11tut13\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\13. Direct Input\dx11tut13\dx11tut13\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\13. Direct Input\dx11tut13\dx11tut13\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\14. Direct Sound\" />
+    <Folder Include="17-2-DirextX11 Test\14. Direct Sound\dx11tut14\" />
+    <Folder Include="17-2-DirextX11 Test\14. Direct Sound\dx11tut14\dx11tut14\" />
+    <Folder Include="17-2-DirextX11 Test\14. Direct Sound\dx11tut14\dx11tut14\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\14. Direct Sound\dx11tut14\dx11tut14\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\14. Direct Sound\dx11tut14\dx11tut14\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\" />
+    <Folder Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\dx11tut15\" />
+    <Folder Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\dx11tut15\dx11tut15\" />
+    <Folder Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\dx11tut15\dx11tut15\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\dx11tut15\dx11tut15\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\dx11tut15\dx11tut15\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\15. FPS, CPU 사용량, 타이머\dx11tut15\dx11tut15\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\16. 프러스텀 컬링\" />
+    <Folder Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\" />
+    <Folder Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\dx11tut16\" />
+    <Folder Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\dx11tut16\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\dx11tut16\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\dx11tut16\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\16. 프러스텀 컬링\dx11tut16\dx11tut16\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\" />
+    <Folder Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\dx11tut17\" />
+    <Folder Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\dx11tut17\dx11tut17\" />
+    <Folder Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\dx11tut17\dx11tut17\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\dx11tut17\dx11tut17\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\dx11tut17\dx11tut17\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\17. 멀티텍스쳐링과 텍스쳐배열\dx11tut17\dx11tut17\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\18. 라이트맵\" />
+    <Folder Include="17-2-DirextX11 Test\18. 라이트맵\dx11tut18\" />
+    <Folder Include="17-2-DirextX11 Test\18. 라이트맵\dx11tut18\dx11tut18\" />
+    <Folder Include="17-2-DirextX11 Test\18. 라이트맵\dx11tut18\dx11tut18\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\18. 라이트맵\dx11tut18\dx11tut18\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\18. 라이트맵\dx11tut18\dx11tut18\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\18. 라이트맵\dx11tut18\dx11tut18\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\19. 알파 매핑\" />
+    <Folder Include="17-2-DirextX11 Test\19. 알파 매핑\dx11tut19\" />
+    <Folder Include="17-2-DirextX11 Test\19. 알파 매핑\dx11tut19\dx11tut19\" />
+    <Folder Include="17-2-DirextX11 Test\19. 알파 매핑\dx11tut19\dx11tut19\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\19. 알파 매핑\dx11tut19\dx11tut19\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\19. 알파 매핑\dx11tut19\dx11tut19\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\19. 알파 매핑\dx11tut19\dx11tut19\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\20. 범프 매핑\" />
+    <Folder Include="17-2-DirextX11 Test\20. 범프 매핑\dx11src20\" />
+    <Folder Include="17-2-DirextX11 Test\20. 범프 매핑\dx11src20\dx11src20\" />
+    <Folder Include="17-2-DirextX11 Test\20. 범프 매핑\dx11src20\dx11src20\data" />
+    <Folder Include="17-2-DirextX11 Test\21. 반사 매핑\" />
+    <Folder Include="17-2-DirextX11 Test\21. 반사 매핑\dx11tut21\" />
+    <Folder Include="17-2-DirextX11 Test\21. 반사 매핑\dx11tut21\dx11tut21\" />
+    <Folder Include="17-2-DirextX11 Test\21. 반사 매핑\dx11tut21\dx11tut21\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\21. 반사 매핑\dx11tut21\dx11tut21\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\21. 반사 매핑\dx11tut21\dx11tut21\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\21. 반사 매핑\dx11tut21\dx11tut21\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\" />
+    <Folder Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\dx11tut22\" />
+    <Folder Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\dx11tut22\dx11tut22\" />
+    <Folder Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\dx11tut22\dx11tut22\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\dx11tut22\dx11tut22\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\dx11tut22\dx11tut22\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\22. 텍스쳐에 그리기%28RTT%29\dx11tut22\dx11tut22\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\23. 안개\" />
+    <Folder Include="17-2-DirextX11 Test\23. 안개\dx11tut23\" />
+    <Folder Include="17-2-DirextX11 Test\23. 안개\dx11tut23\dx11tut23\" />
+    <Folder Include="17-2-DirextX11 Test\23. 안개\dx11tut23\dx11tut23\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\23. 안개\dx11tut23\dx11tut23\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\23. 안개\dx11tut23\dx11tut23\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\23. 안개\dx11tut23\dx11tut23\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\24. 클리핑 평면\" />
+    <Folder Include="17-2-DirextX11 Test\24. 클리핑 평면\dx11tut24\" />
+    <Folder Include="17-2-DirextX11 Test\24. 클리핑 평면\dx11tut24\dx11tut24\" />
+    <Folder Include="17-2-DirextX11 Test\24. 클리핑 평면\dx11tut24\dx11tut24\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\24. 클리핑 평면\dx11tut24\dx11tut24\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\24. 클리핑 평면\dx11tut24\dx11tut24\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\24. 클리핑 평면\dx11tut24\dx11tut24\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\25. 텍스쳐 이동\" />
+    <Folder Include="17-2-DirextX11 Test\25. 텍스쳐 이동\dx11tut25\" />
+    <Folder Include="17-2-DirextX11 Test\25. 텍스쳐 이동\dx11tut25\dx11tut25\" />
+    <Folder Include="17-2-DirextX11 Test\25. 텍스쳐 이동\dx11tut25\dx11tut25\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\25. 텍스쳐 이동\dx11tut25\dx11tut25\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\25. 텍스쳐 이동\dx11tut25\dx11tut25\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\25. 텍스쳐 이동\dx11tut25\dx11tut25\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\26. 투명도\" />
+    <Folder Include="17-2-DirextX11 Test\26. 투명도\dx11tut26\" />
+    <Folder Include="17-2-DirextX11 Test\26. 투명도\dx11tut26\dx11tut26\" />
+    <Folder Include="17-2-DirextX11 Test\26. 투명도\dx11tut26\dx11tut26\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\26. 투명도\dx11tut26\dx11tut26\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\26. 투명도\dx11tut26\dx11tut26\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\26. 투명도\dx11tut26\dx11tut26\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\27. 반사\" />
+    <Folder Include="17-2-DirextX11 Test\27. 반사\dx11tut27\" />
+    <Folder Include="17-2-DirextX11 Test\27. 반사\dx11tut27\dx11tut27\" />
+    <Folder Include="17-2-DirextX11 Test\27. 반사\dx11tut27\dx11tut27\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\27. 반사\dx11tut27\dx11tut27\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\27. 반사\dx11tut27\dx11tut27\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\27. 반사\dx11tut27\dx11tut27\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\28. 페이드 효과\" />
+    <Folder Include="17-2-DirextX11 Test\28. 페이드 효과\dx11tut28\" />
+    <Folder Include="17-2-DirextX11 Test\28. 페이드 효과\dx11tut28\dx11tut28\" />
+    <Folder Include="17-2-DirextX11 Test\28. 페이드 효과\dx11tut28\dx11tut28\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\28. 페이드 효과\dx11tut28\dx11tut28\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\28. 페이드 효과\dx11tut28\dx11tut28\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\28. 페이드 효과\dx11tut28\dx11tut28\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\30. 다중 점조명\" />
+    <Folder Include="17-2-DirextX11 Test\30. 다중 점조명\dx11tut30\" />
+    <Folder Include="17-2-DirextX11 Test\30. 다중 점조명\dx11tut30\dx11tut30\" />
+    <Folder Include="17-2-DirextX11 Test\30. 다중 점조명\dx11tut30\dx11tut30\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\30. 다중 점조명\dx11tut30\dx11tut30\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\30. 다중 점조명\dx11tut30\dx11tut30\Engine\Engine\data" />
+    <Folder Include="17-2-DirextX11 Test\30. 다중 점조명\dx11tut30\dx11tut30\Engine\Engine\Debug" />
+    <Folder Include="17-2-DirextX11 Test\31. 3차원 음향\" />
+    <Folder Include="17-2-DirextX11 Test\31. 3차원 음향\dx11tut31\" />
+    <Folder Include="17-2-DirextX11 Test\31. 3차원 음향\dx11tut31\dx11tut31\" />
+    <Folder Include="17-2-DirextX11 Test\31. 3차원 음향\dx11tut31\dx11tut31\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\31. 3차원 음향\dx11tut31\dx11tut31\Engine\Engine\" />
+    <Folder Include="17-2-DirextX11 Test\31. 3차원 음향\dx11tut31\dx11tut31\Engine\Engine\Debug" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\Desktop\17-11-20-Door_Lock.py">
+      <SubType>Code</SubType>
+      <Link>17-11-20-Door_Lock.py</Link>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
+</Project>
